@@ -1,0 +1,7 @@
+﻿  GCDandLCM.cpp
+c:\users\abelz\onedrive\desktop\vu mif isis\algoritmai ir duomenų struktūros\gcdandlcm\gcdandlcm\gcdandlcm.cpp(71): warning C4244: 'argument': conversion from 'ill' to 'const unsigned int', possible loss of data
+c:\users\abelz\onedrive\desktop\vu mif isis\algoritmai ir duomenų struktūros\gcdandlcm\gcdandlcm\gcdandlcm.cpp(73): warning C4244: 'argument': conversion from 'ill' to 'const unsigned int', possible loss of data
+c:\users\abelz\onedrive\desktop\vu mif isis\algoritmai ir duomenų struktūros\gcdandlcm\gcdandlcm\gcdandlcm.cpp(75): warning C4244: 'argument': conversion from 'ill' to 'const int', possible loss of data
+c:\users\abelz\onedrive\desktop\vu mif isis\algoritmai ir duomenų struktūros\gcdandlcm\gcdandlcm\gcdandlcm.cpp(77): warning C4244: 'argument': conversion from 'ill' to 'const unsigned int', possible loss of data
+c:\users\abelz\onedrive\desktop\vu mif isis\algoritmai ir duomenų struktūros\gcdandlcm\gcdandlcm\gcdandlcm.cpp(80): warning C4244: 'argument': conversion from 'ill' to 'unsigned int', possible loss of data
+  GCDandLCM.vcxproj -> C:\Users\abelz\OneDrive\Desktop\VU MIF ISIS\Algoritmai ir duomenų struktūros\GCDandLCM\Debug\GCDandLCM.exe
